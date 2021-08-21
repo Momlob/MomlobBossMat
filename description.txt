@@ -1,0 +1,27 @@
+Have you ever fought a Boss, only for it to give you some Item you didnt want?
+Farmed out a Boss and got mad, that it gave you the same crappy Item 10 times in a Row?
+Or are just tired of having to refight Bosses for that needed Weapon altogether?
+Well, this Mod aims to fix that. Lucky you!
+
+Crafty Boss Drops replaces Boss Drops with a Boss unique Material.
+This Material can then be used to craft the Bosses usual random Drops.
+
+If you want to keep the random Drops from Bosses, enable Drops in Config.
+
+
+Changelog:
+  - 1.2.0
+   - Adjusted Drop Rates.
+   - Improved majority of Sprites.
+   - Boss Materials including existing ones are now marked by Tooltips.
+   - New Mod Icon.
+   - Added Items for Thorium Bosses.
+   - Added Recipes for Thorium Items, Goblin Army Items and Golden Furniture.
+   - Due to internal renames, some Items may be lost!
+   
+  - 1.1.0
+   - Several small Fixes
+   - Dubloons actually drop now
+
+  - 1.0.0
+   - Release

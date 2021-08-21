@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUxind4mSxKCo15pDrJ4FaxRRqoG6JshDEfaqUHG212t4q4dS1sIYWe7GDn6H2DLyMlZnd6gHDyZtWqs32/7bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fussel\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MomlobBossMat\\MomlobBossMat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fussel\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
