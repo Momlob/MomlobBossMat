@@ -1,3 +1,5 @@
 displayName = Crafty Boss Drops
-version = 1.2.0
+version = 1.2.0.1
 author = Momlob
+homepage = https://forums.terraria.org/index.php?threads/momlob-s-misc-mods.107093/
+buildIgnore = .git\*, .gitattributes
